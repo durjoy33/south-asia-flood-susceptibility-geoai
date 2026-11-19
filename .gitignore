@@ -1,0 +1,43 @@
+# Python/Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# User data and large geospatial files
+data/raw/**
+!data/raw/README.md
+data/processed/**
+!data/processed/README.md
+!data/processed/SR_GEOAI_Flood_Master_Dataset.csv
+!data/processed/DATA_DICTIONARY.csv
+*.shp
+*.shx
+*.dbf
+*.prj
+*.cpg
+*.tif
+*.tiff
+*.gpkg
+*.vrt
+*.img
+*.aux.xml
+
+# Generated analysis outputs and checkpoint files
+outputs/**
+!supplementary_analyses/results/*.csv
+!outputs/README.md
+sr_geoai_outputs*/
+*_checkpoint.csv
+*_clean.zip
+*.zip
+*.7z
+*.log
+
+# OS/editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

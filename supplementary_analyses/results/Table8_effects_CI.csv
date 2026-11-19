@@ -1,0 +1,10 @@
+model,effect,mean,lo,hi,regions_pos
+LightGBM,size_effect,-0.011,-0.03,0.008,1
+LightGBM,buffer_effect,0.04,-0.006,0.086,5
+LightGBM,local_effect,0.136,0.083,0.189,5
+Logistic Regression,size_effect,0.006,0.001,0.011,4
+Logistic Regression,buffer_effect,-0.003,-0.061,0.056,3
+Logistic Regression,local_effect,0.16,0.117,0.203,5
+Random Forest,size_effect,0.002,-0.005,0.008,4
+Random Forest,buffer_effect,0.026,0.008,0.045,5
+Random Forest,local_effect,0.093,0.05,0.137,5

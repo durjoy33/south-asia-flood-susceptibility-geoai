@@ -1,0 +1,541 @@
+seed,fold,rep,cond,n_train,n_test,model,AUC
+17,0,0,C1_region_held_out_full,2749,333,Random Forest,0.8702207257762813
+17,0,0,C2_region_held_out_buffered,1531,333,Random Forest,0.8592966704077815
+17,0,0,C3_region_held_out_size_matched,1531,333,Random Forest,0.8720538720538719
+17,0,0,C4_part_of_region_in_training_size_matched,1531,333,Random Forest,0.9506546950991396
+17,0,0,C1_region_held_out_full,2749,333,LightGBM,0.8023569023569024
+17,0,0,C2_region_held_out_buffered,1531,333,LightGBM,0.8358024691358024
+17,0,0,C3_region_held_out_size_matched,1531,333,LightGBM,0.8609801720912833
+17,0,0,C4_part_of_region_in_training_size_matched,1531,333,LightGBM,0.9686868686868687
+17,0,0,C1_region_held_out_full,2749,333,Logistic Regression,0.8278713056490834
+17,0,0,C2_region_held_out_buffered,1531,333,Logistic Regression,0.8555181444070333
+17,0,0,C3_region_held_out_size_matched,1531,333,Logistic Regression,0.8037037037037037
+17,0,0,C4_part_of_region_in_training_size_matched,1531,333,Logistic Regression,0.9281705948372615
+17,0,1,C1_region_held_out_full,2749,332,Random Forest,0.8570282964829878
+17,0,1,C2_region_held_out_buffered,1531,332,Random Forest,0.8443884370107304
+17,0,1,C3_region_held_out_size_matched,1531,332,Random Forest,0.8628708901363271
+17,0,1,C4_part_of_region_in_training_size_matched,1531,332,Random Forest,0.935387787833658
+17,0,1,C1_region_held_out_full,2749,332,LightGBM,0.8068889143468133
+17,0,1,C2_region_held_out_buffered,1531,332,LightGBM,0.8400351319356933
+17,0,1,C3_region_held_out_size_matched,1531,332,LightGBM,0.8553480734715699
+17,0,1,C4_part_of_region_in_training_size_matched,1531,332,LightGBM,0.9587581624470156
+17,0,1,C1_region_held_out_full,2749,332,Logistic Regression,0.838545843357391
+17,0,1,C2_region_held_out_buffered,1531,332,Logistic Regression,0.8462977813418873
+17,0,1,C3_region_held_out_size_matched,1531,332,Logistic Regression,0.8493527322717379
+17,0,1,C4_part_of_region_in_training_size_matched,1531,332,Logistic Regression,0.9358460304731355
+17,0,2,C1_region_held_out_full,2749,335,Random Forest,0.868937728937729
+17,0,2,C2_region_held_out_buffered,1531,335,Random Forest,0.8673260073260073
+17,0,2,C3_region_held_out_size_matched,1531,335,Random Forest,0.8705860805860807
+17,0,2,C4_part_of_region_in_training_size_matched,1531,335,Random Forest,0.9551648351648352
+17,0,2,C1_region_held_out_full,2749,335,LightGBM,0.812967032967033
+17,0,2,C2_region_held_out_buffered,1531,335,LightGBM,0.862930402930403
+17,0,2,C3_region_held_out_size_matched,1531,335,LightGBM,0.8793772893772893
+17,0,2,C4_part_of_region_in_training_size_matched,1531,335,LightGBM,0.9715384615384615
+17,0,2,C1_region_held_out_full,2749,335,Logistic Regression,0.8123809523809524
+17,0,2,C2_region_held_out_buffered,1531,335,Logistic Regression,0.852014652014652
+17,0,2,C3_region_held_out_size_matched,1531,335,Logistic Regression,0.7943223443223443
+17,0,2,C4_part_of_region_in_training_size_matched,1531,335,Logistic Regression,0.9387545787545788
+17,1,0,C1_region_held_out_full,2102,655,Random Forest,0.8279231719645064
+17,1,0,C2_region_held_out_buffered,1745,655,Random Forest,0.8156894679695983
+17,1,0,C3_region_held_out_size_matched,1745,655,Random Forest,0.8260137032460968
+17,1,0,C4_part_of_region_in_training_size_matched,1745,655,Random Forest,0.8926204650117937
+17,1,0,C1_region_held_out_full,2102,655,LightGBM,0.8082762364745967
+17,1,0,C2_region_held_out_buffered,1745,655,LightGBM,0.7923827174360701
+17,1,0,C3_region_held_out_size_matched,1745,655,LightGBM,0.8084259987270208
+17,1,0,C4_part_of_region_in_training_size_matched,1745,655,LightGBM,0.9372496162342281
+17,1,0,C1_region_held_out_full,2102,655,Logistic Regression,0.7339286382867198
+17,1,0,C2_region_held_out_buffered,1745,655,Logistic Regression,0.7967913437418097
+17,1,0,C3_region_held_out_size_matched,1745,655,Logistic Regression,0.7088996218503127
+17,1,0,C4_part_of_region_in_training_size_matched,1745,655,Logistic Regression,0.880012355385825
+17,1,1,C1_region_held_out_full,2102,655,Random Forest,0.8322787219061032
+17,1,1,C2_region_held_out_buffered,1745,655,Random Forest,0.8111642910156622
+17,1,1,C3_region_held_out_size_matched,1745,655,Random Forest,0.8287770947913297
+17,1,1,C4_part_of_region_in_training_size_matched,1745,655,Random Forest,0.8937475022360934
+17,1,1,C1_region_held_out_full,2102,655,LightGBM,0.812249034197956
+17,1,1,C2_region_held_out_buffered,1745,655,LightGBM,0.8001360686623404
+17,1,1,C3_region_held_out_size_matched,1745,655,LightGBM,0.8107551334995337
+17,1,1,C4_part_of_region_in_training_size_matched,1745,655,LightGBM,0.931618360705654
+17,1,1,C1_region_held_out_full,2102,655,Logistic Regression,0.736811806573163
+17,1,1,C2_region_held_out_buffered,1745,655,Logistic Regression,0.8025148914305289
+17,1,1,C3_region_held_out_size_matched,1745,655,Logistic Regression,0.7528355567396806
+17,1,1,C4_part_of_region_in_training_size_matched,1745,655,Logistic Regression,0.8867061868422554
+17,1,2,C1_region_held_out_full,2102,657,Random Forest,0.835438916384475
+17,1,2,C2_region_held_out_buffered,1745,657,Random Forest,0.8197819372604472
+17,1,2,C3_region_held_out_size_matched,1745,657,Random Forest,0.835411007330778
+17,1,2,C4_part_of_region_in_training_size_matched,1745,657,Random Forest,0.8965225319093515
+17,1,2,C1_region_held_out_full,2102,657,LightGBM,0.8142838536821345
+17,1,2,C2_region_held_out_buffered,1745,657,LightGBM,0.801892233840658
+17,1,2,C3_region_held_out_size_matched,1745,657,LightGBM,0.8164142447810069
+17,1,2,C4_part_of_region_in_training_size_matched,1745,657,LightGBM,0.9345718751162877
+17,1,2,C1_region_held_out_full,2102,657,Logistic Regression,0.7184534663044693
+17,1,2,C2_region_held_out_buffered,1745,657,Logistic Regression,0.7710155174338554
+17,1,2,C3_region_held_out_size_matched,1745,657,Logistic Regression,0.7307892680385517
+17,1,2,C4_part_of_region_in_training_size_matched,1745,657,Logistic Regression,0.8624641833810888
+17,2,0,C1_region_held_out_full,3027,194,Random Forest,0.8302921884317234
+17,2,0,C2_region_held_out_buffered,2811,194,Random Forest,0.8289803220035779
+17,2,0,C3_region_held_out_size_matched,2811,194,Random Forest,0.8271914132379249
+17,2,0,C4_part_of_region_in_training_size_matched,2811,194,Random Forest,0.9222420989862851
+17,2,0,C1_region_held_out_full,3027,194,LightGBM,0.7398926654740609
+17,2,0,C2_region_held_out_buffered,2811,194,LightGBM,0.7230769230769232
+17,2,0,C3_region_held_out_size_matched,2811,194,LightGBM,0.7199761478831247
+17,2,0,C4_part_of_region_in_training_size_matched,2811,194,LightGBM,0.9366726296958855
+17,2,0,C1_region_held_out_full,3027,194,Logistic Regression,0.7843768634466309
+17,2,0,C2_region_held_out_buffered,2811,194,Logistic Regression,0.7557543231961836
+17,2,0,C3_region_held_out_size_matched,2811,194,Logistic Regression,0.792128801431127
+17,2,0,C4_part_of_region_in_training_size_matched,2811,194,Logistic Regression,0.898747763864043
+17,2,1,C1_region_held_out_full,3027,194,Random Forest,0.8202801120448179
+17,2,1,C2_region_held_out_buffered,2811,194,Random Forest,0.803921568627451
+17,2,1,C3_region_held_out_size_matched,2811,194,Random Forest,0.8203921568627451
+17,2,1,C4_part_of_region_in_training_size_matched,2811,194,Random Forest,0.9177591036414566
+17,2,1,C1_region_held_out_full,3027,194,LightGBM,0.7318767507002802
+17,2,1,C2_region_held_out_buffered,2811,194,LightGBM,0.7202240896358544
+17,2,1,C3_region_held_out_size_matched,2811,194,LightGBM,0.7414005602240897
+17,2,1,C4_part_of_region_in_training_size_matched,2811,194,LightGBM,0.9411764705882353
+17,2,1,C1_region_held_out_full,3027,194,Logistic Regression,0.756750700280112
+17,2,1,C2_region_held_out_buffered,2811,194,Logistic Regression,0.7182072829131653
+17,2,1,C3_region_held_out_size_matched,2811,194,Logistic Regression,0.7533893557422969
+17,2,1,C4_part_of_region_in_training_size_matched,2811,194,Logistic Regression,0.9006162464985994
+17,2,2,C1_region_held_out_full,3027,196,Random Forest,0.8421508168343611
+17,2,2,C2_region_held_out_buffered,2811,196,Random Forest,0.8377150275884453
+17,2,2,C3_region_held_out_size_matched,2811,196,Random Forest,0.8302499188575138
+17,2,2,C4_part_of_region_in_training_size_matched,2811,196,Random Forest,0.9275127123228389
+17,2,2,C1_region_held_out_full,3027,196,LightGBM,0.7633885102239533
+17,2,2,C2_region_held_out_buffered,2811,196,LightGBM,0.7464026831115439
+17,2,2,C3_region_held_out_size_matched,2811,196,LightGBM,0.737963864546143
+17,2,2,C4_part_of_region_in_training_size_matched,2811,196,LightGBM,0.9415774099318402
+17,2,2,C1_region_held_out_full,3027,196,Logistic Regression,0.7414259439575895
+17,2,2,C2_region_held_out_buffered,2811,196,Logistic Regression,0.7502975224494212
+17,2,2,C3_region_held_out_size_matched,2811,196,Logistic Regression,0.7325543654657579
+17,2,2,C4_part_of_region_in_training_size_matched,2811,196,Logistic Regression,0.8876987990912041
+17,3,0,C1_region_held_out_full,2767,331,Random Forest,0.8488398287902681
+17,3,0,C2_region_held_out_buffered,2172,331,Random Forest,0.7723586393331832
+17,3,0,C3_region_held_out_size_matched,2172,331,Random Forest,0.8120072088308177
+17,3,0,C4_part_of_region_in_training_size_matched,2172,331,Random Forest,0.9584365848164
+17,3,0,C1_region_held_out_full,2767,331,LightGBM,0.795599609521664
+17,3,0,C2_region_held_out_buffered,2172,331,LightGBM,0.7142749868589022
+17,3,0,C3_region_held_out_size_matched,2172,331,LightGBM,0.7884658706915971
+17,3,0,C4_part_of_region_in_training_size_matched,2172,331,LightGBM,0.9683111811969664
+17,3,0,C1_region_held_out_full,2767,331,Logistic Regression,0.7661260043553352
+17,3,0,C2_region_held_out_buffered,2172,331,Logistic Regression,0.7210708117443869
+17,3,0,C3_region_held_out_size_matched,2172,331,Logistic Regression,0.7726214612900804
+17,3,0,C4_part_of_region_in_training_size_matched,2172,331,Logistic Regression,0.9162348877374783
+17,3,1,C1_region_held_out_full,2767,317,Random Forest,0.8596718131113087
+17,3,1,C2_region_held_out_buffered,2172,317,Random Forest,0.7951661142995715
+17,3,1,C3_region_held_out_size_matched,2172,317,Random Forest,0.8616118341282032
+17,3,1,C4_part_of_region_in_training_size_matched,2172,317,Random Forest,0.9607549915124081
+17,3,1,C1_region_held_out_full,2767,317,LightGBM,0.8219222374909061
+17,3,1,C2_region_held_out_buffered,2172,317,LightGBM,0.7173227709966858
+17,3,1,C3_region_held_out_size_matched,2172,317,LightGBM,0.833158192547086
+17,3,1,C4_part_of_region_in_training_size_matched,2172,317,LightGBM,0.9649179532778273
+17,3,1,C1_region_held_out_full,2767,317,Logistic Regression,0.7574973728882063
+17,3,1,C2_region_held_out_buffered,2172,317,Logistic Regression,0.7354700509255517
+17,3,1,C3_region_held_out_size_matched,2172,317,Logistic Regression,0.7667933069274918
+17,3,1,C4_part_of_region_in_training_size_matched,2172,317,Logistic Regression,0.9192062080672541
+17,3,2,C1_region_held_out_full,2767,318,Random Forest,0.8319712975882002
+17,3,2,C2_region_held_out_buffered,2172,318,Random Forest,0.7528802072951963
+17,3,2,C3_region_held_out_size_matched,2172,318,Random Forest,0.7836954355192346
+17,3,2,C4_part_of_region_in_training_size_matched,2172,318,Random Forest,0.9557903129360176
+17,3,2,C1_region_held_out_full,2767,318,LightGBM,0.7869643213075542
+17,3,2,C2_region_held_out_buffered,2172,318,LightGBM,0.6848714371138129
+17,3,2,C3_region_held_out_size_matched,2172,318,LightGBM,0.7391668327685867
+17,3,2,C4_part_of_region_in_training_size_matched,2172,318,LightGBM,0.9638827984851506
+17,3,2,C1_region_held_out_full,2767,318,Logistic Regression,0.7202710783336655
+17,3,2,C2_region_held_out_buffered,2172,318,Logistic Regression,0.6925254135937812
+17,3,2,C3_region_held_out_size_matched,2172,318,Logistic Regression,0.7098265895953757
+17,3,2,C4_part_of_region_in_training_size_matched,2172,318,Logistic Regression,0.9246561690253139
+17,4,0,C1_region_held_out_full,3019,198,Random Forest,0.8171487603305786
+17,4,0,C2_region_held_out_buffered,1884,198,Random Forest,0.8100321395775941
+17,4,0,C3_region_held_out_size_matched,1884,198,Random Forest,0.8300045913682277
+17,4,0,C4_part_of_region_in_training_size_matched,1884,198,Random Forest,0.9132231404958678
+17,4,0,C1_region_held_out_full,3019,198,LightGBM,0.8337924701561065
+17,4,0,C2_region_held_out_buffered,1884,198,LightGBM,0.8224288337924702
+17,4,0,C3_region_held_out_size_matched,1884,198,LightGBM,0.8426308539944903
+17,4,0,C4_part_of_region_in_training_size_matched,1884,198,LightGBM,0.9711891643709826
+17,4,0,C1_region_held_out_full,3019,198,Logistic Regression,0.6228191000918274
+17,4,0,C2_region_held_out_buffered,1884,198,Logistic Regression,0.5692148760330579
+17,4,0,C3_region_held_out_size_matched,1884,198,Logistic Regression,0.6324609733700642
+17,4,0,C4_part_of_region_in_training_size_matched,1884,198,Logistic Regression,0.8142791551882461
+17,4,1,C1_region_held_out_full,3019,199,Random Forest,0.8613154960981046
+17,4,1,C2_region_held_out_buffered,1884,199,Random Forest,0.8392419175027871
+17,4,1,C3_region_held_out_size_matched,1884,199,Random Forest,0.8668896321070234
+17,4,1,C4_part_of_region_in_training_size_matched,1884,199,Random Forest,0.9385730211817168
+17,4,1,C1_region_held_out_full,3019,199,LightGBM,0.8822742474916386
+17,4,1,C2_region_held_out_buffered,1884,199,LightGBM,0.8442586399108137
+17,4,1,C3_region_held_out_size_matched,1884,199,LightGBM,0.877257525083612
+17,4,1,C4_part_of_region_in_training_size_matched,1884,199,LightGBM,0.9777034559643255
+17,4,1,C1_region_held_out_full,3019,199,Logistic Regression,0.6612040133779264
+17,4,1,C2_region_held_out_buffered,1884,199,Logistic Regression,0.634448160535117
+17,4,1,C3_region_held_out_size_matched,1884,199,Logistic Regression,0.6273132664437012
+17,4,1,C4_part_of_region_in_training_size_matched,1884,199,Logistic Regression,0.8672240802675585
+17,4,2,C1_region_held_out_full,3019,201,Random Forest,0.8278039383561644
+17,4,2,C2_region_held_out_buffered,1884,201,Random Forest,0.8148544520547945
+17,4,2,C3_region_held_out_size_matched,1884,201,Random Forest,0.8420376712328766
+17,4,2,C4_part_of_region_in_training_size_matched,1884,201,Random Forest,0.930757705479452
+17,4,2,C1_region_held_out_full,3019,201,LightGBM,0.8505993150684932
+17,4,2,C2_region_held_out_buffered,1884,201,LightGBM,0.8355094178082192
+17,4,2,C3_region_held_out_size_matched,1884,201,LightGBM,0.8282320205479452
+17,4,2,C4_part_of_region_in_training_size_matched,1884,201,LightGBM,0.9627568493150684
+17,4,2,C1_region_held_out_full,3019,201,Logistic Regression,0.602632705479452
+17,4,2,C2_region_held_out_buffered,1884,201,Logistic Regression,0.5520119863013699
+17,4,2,C3_region_held_out_size_matched,1884,201,Logistic Regression,0.5924657534246576
+17,4,2,C4_part_of_region_in_training_size_matched,1884,201,Logistic Regression,0.7933433219178083
+42,0,0,C1_region_held_out_full,2765,323,Random Forest,0.8915710328452711
+42,0,0,C2_region_held_out_buffered,1537,323,Random Forest,0.870399683419074
+42,0,0,C3_region_held_out_size_matched,1537,323,Random Forest,0.8916501780767709
+42,0,0,C4_part_of_region_in_training_size_matched,1537,323,Random Forest,0.9385437277404036
+42,0,0,C1_region_held_out_full,2765,323,LightGBM,0.8668381480015828
+42,0,0,C2_region_held_out_buffered,1537,323,LightGBM,0.8429758607043925
+42,0,0,C3_region_held_out_size_matched,1537,323,LightGBM,0.8958448753462604
+42,0,0,C4_part_of_region_in_training_size_matched,1537,323,LightGBM,0.9523149980213692
+42,0,0,C1_region_held_out_full,2765,323,Logistic Regression,0.8160664819944599
+42,0,0,C2_region_held_out_buffered,1537,323,Logistic Regression,0.8548476454293629
+42,0,0,C3_region_held_out_size_matched,1537,323,Logistic Regression,0.7677878907795805
+42,0,0,C4_part_of_region_in_training_size_matched,1537,323,Logistic Regression,0.923229125445192
+42,0,1,C1_region_held_out_full,2765,326,Random Forest,0.862290133936993
+42,0,1,C2_region_held_out_buffered,1537,326,Random Forest,0.8420675344274666
+42,0,1,C3_region_held_out_size_matched,1537,326,Random Forest,0.8617996604414261
+42,0,1,C4_part_of_region_in_training_size_matched,1537,326,Random Forest,0.9280513110733826
+42,0,1,C1_region_held_out_full,2765,326,LightGBM,0.837200528202226
+42,0,1,C2_region_held_out_buffered,1537,326,LightGBM,0.8272401433691756
+42,0,1,C3_region_held_out_size_matched,1537,326,LightGBM,0.8577249575551783
+42,0,1,C4_part_of_region_in_training_size_matched,1537,326,LightGBM,0.9433691756272401
+42,0,1,C1_region_held_out_full,2765,326,Logistic Regression,0.7843425768722881
+42,0,1,C2_region_held_out_buffered,1537,326,Logistic Regression,0.8290888511601585
+42,0,1,C3_region_held_out_size_matched,1537,326,Logistic Regression,0.7751367666478022
+42,0,1,C4_part_of_region_in_training_size_matched,1537,326,Logistic Regression,0.9206564799094511
+42,0,2,C1_region_held_out_full,2765,325,Random Forest,0.8957289429730374
+42,0,2,C2_region_held_out_buffered,1537,325,Random Forest,0.8791457885946075
+42,0,2,C3_region_held_out_size_matched,1537,325,Random Forest,0.8795036984013362
+42,0,2,C4_part_of_region_in_training_size_matched,1537,325,Random Forest,0.943728624830987
+42,0,2,C1_region_held_out_full,2765,325,LightGBM,0.8813330151912829
+42,0,2,C2_region_held_out_buffered,1537,325,LightGBM,0.8564383997454863
+42,0,2,C3_region_held_out_size_matched,1537,325,LightGBM,0.8781118269307245
+42,0,2,C4_part_of_region_in_training_size_matched,1537,325,LightGBM,0.9644476258649487
+42,0,2,C1_region_held_out_full,2765,325,Logistic Regression,0.7949574485007556
+42,0,2,C2_region_held_out_buffered,1537,325,Logistic Regression,0.8570349160900341
+42,0,2,C3_region_held_out_size_matched,1537,325,Logistic Regression,0.8151594687027758
+42,0,2,C4_part_of_region_in_training_size_matched,1537,325,Logistic Regression,0.8991489700151117
+42,1,0,C1_region_held_out_full,3025,196,Random Forest,0.8413377192982456
+42,1,0,C2_region_held_out_buffered,2786,196,Random Forest,0.8072368421052631
+42,1,0,C3_region_held_out_size_matched,2786,196,Random Forest,0.8439692982456141
+42,1,0,C4_part_of_region_in_training_size_matched,2786,196,Random Forest,0.9316885964912283
+42,1,0,C1_region_held_out_full,3025,196,LightGBM,0.7599780701754385
+42,1,0,C2_region_held_out_buffered,2786,196,LightGBM,0.7781798245614036
+42,1,0,C3_region_held_out_size_matched,2786,196,LightGBM,0.7771929824561404
+42,1,0,C4_part_of_region_in_training_size_matched,2786,196,LightGBM,0.9406798245614035
+42,1,0,C1_region_held_out_full,3025,196,Logistic Regression,0.7701754385964913
+42,1,0,C2_region_held_out_buffered,2786,196,Logistic Regression,0.756578947368421
+42,1,0,C3_region_held_out_size_matched,2786,196,Logistic Regression,0.7771929824561404
+42,1,0,C4_part_of_region_in_training_size_matched,2786,196,Logistic Regression,0.856140350877193
+42,1,1,C1_region_held_out_full,3025,197,Random Forest,0.8231162196679438
+42,1,1,C2_region_held_out_buffered,2786,197,Random Forest,0.7895913154533843
+42,1,1,C3_region_held_out_size_matched,2786,197,Random Forest,0.8140698169433801
+42,1,1,C4_part_of_region_in_training_size_matched,2786,197,Random Forest,0.920285227756492
+42,1,1,C1_region_held_out_full,3025,197,LightGBM,0.7535121328224776
+42,1,1,C2_region_held_out_buffered,2786,197,LightGBM,0.736696466581524
+42,1,1,C3_region_held_out_size_matched,2786,197,LightGBM,0.7774584929757343
+42,1,1,C4_part_of_region_in_training_size_matched,2786,197,LightGBM,0.9598765432098765
+42,1,1,C1_region_held_out_full,3025,197,Logistic Regression,0.7539378458918689
+42,1,1,C2_region_held_out_buffered,2786,197,Logistic Regression,0.7573435504469987
+42,1,1,C3_region_held_out_size_matched,2786,197,Logistic Regression,0.7100893997445721
+42,1,1,C4_part_of_region_in_training_size_matched,2786,197,Logistic Regression,0.8875053214133672
+42,1,2,C1_region_held_out_full,3025,198,Random Forest,0.8174145299145299
+42,1,2,C2_region_held_out_buffered,2786,198,Random Forest,0.7773504273504274
+42,1,2,C3_region_held_out_size_matched,2786,198,Random Forest,0.8186965811965813
+42,1,2,C4_part_of_region_in_training_size_matched,2786,198,Random Forest,0.9177350427350428
+42,1,2,C1_region_held_out_full,3025,198,LightGBM,0.7473290598290597
+42,1,2,C2_region_held_out_buffered,2786,198,LightGBM,0.7526709401709402
+42,1,2,C3_region_held_out_size_matched,2786,198,LightGBM,0.7935897435897437
+42,1,2,C4_part_of_region_in_training_size_matched,2786,198,LightGBM,0.9479700854700854
+42,1,2,C1_region_held_out_full,3025,198,Logistic Regression,0.7481837606837607
+42,1,2,C2_region_held_out_buffered,2786,198,Logistic Regression,0.7409188034188035
+42,1,2,C3_region_held_out_size_matched,2786,198,Logistic Regression,0.7660256410256411
+42,1,2,C4_part_of_region_in_training_size_matched,2786,198,Logistic Regression,0.889957264957265
+42,2,0,C1_region_held_out_full,2730,356,Random Forest,0.772241313478427
+42,2,0,C2_region_held_out_buffered,2158,356,Random Forest,0.7180221458571975
+42,2,0,C3_region_held_out_size_matched,2158,356,Random Forest,0.7732913325696832
+42,2,0,C4_part_of_region_in_training_size_matched,2158,356,Random Forest,0.941008018327606
+42,2,0,C1_region_held_out_full,2730,356,LightGBM,0.7340588010691104
+42,2,0,C2_region_held_out_buffered,2158,356,LightGBM,0.6593165330278733
+42,2,0,C3_region_held_out_size_matched,2158,356,LightGBM,0.7800369097619957
+42,2,0,C4_part_of_region_in_training_size_matched,2158,356,LightGBM,0.9544991727122312
+42,2,0,C1_region_held_out_full,2730,356,Logistic Regression,0.7004581901489118
+42,2,0,C2_region_held_out_buffered,2158,356,Logistic Regression,0.6741440753468246
+42,2,0,C3_region_held_out_size_matched,2158,356,Logistic Regression,0.7274404989181622
+42,2,0,C4_part_of_region_in_training_size_matched,2158,356,Logistic Regression,0.9091256204658267
+42,2,1,C1_region_held_out_full,2730,345,Random Forest,0.8126402393418101
+42,2,1,C2_region_held_out_buffered,2158,345,Random Forest,0.7724212959815054
+42,2,1,C3_region_held_out_size_matched,2158,345,Random Forest,0.8137621540762903
+42,2,1,C4_part_of_region_in_training_size_matched,2158,345,Random Forest,0.948323927381519
+42,2,1,C1_region_held_out_full,2730,345,LightGBM,0.7813626164411505
+42,2,1,C2_region_held_out_buffered,2158,345,LightGBM,0.7057523628204259
+42,2,1,C3_region_held_out_size_matched,2158,345,LightGBM,0.7900999524036173
+42,2,1,C4_part_of_region_in_training_size_matched,2158,345,LightGBM,0.9581151832460733
+42,2,1,C1_region_held_out_full,2730,345,Logistic Regression,0.7426735568096825
+42,2,1,C2_region_held_out_buffered,2158,345,Logistic Regression,0.729822533487455
+42,2,1,C3_region_held_out_size_matched,2158,345,Logistic Regression,0.7539267015706806
+42,2,1,C4_part_of_region_in_training_size_matched,2158,345,Logistic Regression,0.9193581287822126
+42,2,2,C1_region_held_out_full,2730,340,Random Forest,0.7968771929824562
+42,2,2,C2_region_held_out_buffered,2158,340,Random Forest,0.7408070175438597
+42,2,2,C3_region_held_out_size_matched,2158,340,Random Forest,0.8052631578947368
+42,2,2,C4_part_of_region_in_training_size_matched,2158,340,Random Forest,0.9450877192982455
+42,2,2,C1_region_held_out_full,2730,340,LightGBM,0.7543508771929824
+42,2,2,C2_region_held_out_buffered,2158,340,LightGBM,0.6835087719298246
+42,2,2,C3_region_held_out_size_matched,2158,340,LightGBM,0.7861052631578946
+42,2,2,C4_part_of_region_in_training_size_matched,2158,340,LightGBM,0.9556842105263157
+42,2,2,C1_region_held_out_full,2730,340,Logistic Regression,0.7067719298245615
+42,2,2,C2_region_held_out_buffered,2158,340,Logistic Regression,0.709438596491228
+42,2,2,C3_region_held_out_size_matched,2158,340,Logistic Regression,0.7041052631578948
+42,2,2,C4_part_of_region_in_training_size_matched,2158,340,Logistic Regression,0.8987719298245614
+42,3,0,C1_region_held_out_full,2116,648,Random Forest,0.8465565134099617
+42,3,0,C2_region_held_out_buffered,1759,648,Random Forest,0.8285967432950192
+42,3,0,C3_region_held_out_size_matched,1759,648,Random Forest,0.8446982758620689
+42,3,0,C4_part_of_region_in_training_size_matched,1759,648,Random Forest,0.90691091954023
+42,3,0,C1_region_held_out_full,2116,648,LightGBM,0.8257998084291188
+42,3,0,C2_region_held_out_buffered,1759,648,LightGBM,0.8018342911877395
+42,3,0,C3_region_held_out_size_matched,1759,648,LightGBM,0.834094827586207
+42,3,0,C4_part_of_region_in_training_size_matched,1759,648,LightGBM,0.9448132183908047
+42,3,0,C1_region_held_out_full,2116,648,Logistic Regression,0.7467001915708812
+42,3,0,C2_region_held_out_buffered,1759,648,Logistic Regression,0.7831369731800766
+42,3,0,C3_region_held_out_size_matched,1759,648,Logistic Regression,0.733845785440613
+42,3,0,C4_part_of_region_in_training_size_matched,1759,648,Logistic Regression,0.8915565134099617
+42,3,1,C1_region_held_out_full,2116,651,Random Forest,0.8353909661181764
+42,3,1,C2_region_held_out_buffered,1759,651,Random Forest,0.8234074398917002
+42,3,1,C3_region_held_out_size_matched,1759,651,Random Forest,0.8315585257498046
+42,3,1,C4_part_of_region_in_training_size_matched,1759,651,Random Forest,0.8982258279787214
+42,3,1,C1_region_held_out_full,2116,651,LightGBM,0.818316586268042
+42,3,1,C2_region_held_out_buffered,1759,651,LightGBM,0.807086201307987
+42,3,1,C3_region_held_out_size_matched,1759,651,LightGBM,0.8166673022289168
+42,3,1,C4_part_of_region_in_training_size_matched,1759,651,LightGBM,0.9416124849848418
+42,3,1,C1_region_held_out_full,2116,651,Logistic Regression,0.7333832249699698
+42,3,1,C2_region_held_out_buffered,1759,651,Logistic Regression,0.7647577554483573
+42,3,1,C3_region_held_out_size_matched,1759,651,Logistic Regression,0.7162802448185788
+42,3,1,C4_part_of_region_in_training_size_matched,1759,651,Logistic Regression,0.8716561481114267
+42,3,2,C1_region_held_out_full,2116,652,Random Forest,0.8364300527903469
+42,3,2,C2_region_held_out_buffered,1759,652,Random Forest,0.8233644419306184
+42,3,2,C3_region_held_out_size_matched,1759,652,Random Forest,0.8348557692307692
+42,3,2,C4_part_of_region_in_training_size_matched,1759,652,Random Forest,0.8986755279034692
+42,3,2,C1_region_held_out_full,2116,652,LightGBM,0.8182268099547512
+42,3,2,C2_region_held_out_buffered,1759,652,LightGBM,0.7944994343891403
+42,3,2,C3_region_held_out_size_matched,1759,652,LightGBM,0.8239960407239819
+42,3,2,C4_part_of_region_in_training_size_matched,1759,652,LightGBM,0.9386736425339367
+42,3,2,C1_region_held_out_full,2116,652,Logistic Regression,0.7290488310708899
+42,3,2,C2_region_held_out_buffered,1759,652,Logistic Regression,0.7722520739064856
+42,3,2,C3_region_held_out_size_matched,1759,652,Logistic Regression,0.7285680618401207
+42,3,2,C4_part_of_region_in_training_size_matched,1759,652,Logistic Regression,0.8996842006033183
+42,4,0,C1_region_held_out_full,3028,192,Random Forest,0.8255150739145618
+42,4,0,C2_region_held_out_buffered,1900,192,Random Forest,0.8158538004888838
+42,4,0,C3_region_held_out_size_matched,1900,192,Random Forest,0.8409963915725759
+42,4,0,C4_part_of_region_in_training_size_matched,1900,192,Random Forest,0.9223606099406355
+42,4,0,C1_region_held_out_full,3028,192,LightGBM,0.8318007216854848
+42,4,0,C2_region_held_out_buffered,1900,192,LightGBM,0.8058433244092655
+42,4,0,C3_region_held_out_size_matched,1900,192,LightGBM,0.8323827261087184
+42,4,0,C4_part_of_region_in_training_size_matched,1900,192,LightGBM,0.9634501222209289
+42,4,0,C1_region_held_out_full,3028,192,Logistic Regression,0.6421836805959726
+42,4,0,C2_region_held_out_buffered,1900,192,Logistic Regression,0.5456873472238389
+42,4,0,C3_region_held_out_size_matched,1900,192,Logistic Regression,0.6510301478291234
+42,4,0,C4_part_of_region_in_training_size_matched,1900,192,Logistic Regression,0.8484460481899663
+42,4,1,C1_region_held_out_full,3028,196,Random Forest,0.8021599264705882
+42,4,1,C2_region_held_out_buffered,1900,196,Random Forest,0.7752757352941176
+42,4,1,C3_region_held_out_size_matched,1900,196,Random Forest,0.7989430147058824
+42,4,1,C4_part_of_region_in_training_size_matched,1900,196,Random Forest,0.8940716911764706
+42,4,1,C1_region_held_out_full,3028,196,LightGBM,0.8220358455882353
+42,4,1,C2_region_held_out_buffered,1900,196,LightGBM,0.7944623161764705
+42,4,1,C3_region_held_out_size_matched,1900,196,LightGBM,0.8241038602941175
+42,4,1,C4_part_of_region_in_training_size_matched,1900,196,LightGBM,0.9445082720588236
+42,4,1,C1_region_held_out_full,3028,196,Logistic Regression,0.6105238970588235
+42,4,1,C2_region_held_out_buffered,1900,196,Logistic Regression,0.5680147058823529
+42,4,1,C3_region_held_out_size_matched,1900,196,Logistic Regression,0.6048943014705883
+42,4,1,C4_part_of_region_in_training_size_matched,1900,196,Logistic Regression,0.7668887867647058
+42,4,2,C1_region_held_out_full,3028,194,Random Forest,0.8354683276530731
+42,4,2,C2_region_held_out_buffered,1900,194,Random Forest,0.8085556469620401
+42,4,2,C3_region_held_out_size_matched,1900,194,Random Forest,0.8380538253613821
+42,4,2,C4_part_of_region_in_training_size_matched,1900,194,Random Forest,0.932424491714655
+42,4,2,C1_region_held_out_full,3028,194,LightGBM,0.8609707368668469
+42,4,2,C2_region_held_out_buffered,1900,194,LightGBM,0.8099659184392995
+42,4,2,C3_region_held_out_size_matched,1900,194,LightGBM,0.8468680220942532
+42,4,2,C4_part_of_region_in_training_size_matched,1900,194,LightGBM,0.9819015160418381
+42,4,2,C1_region_held_out_full,3028,194,Logistic Regression,0.6369726172288166
+42,4,2,C2_region_held_out_buffered,1900,194,Logistic Regression,0.5328475731578328
+42,4,2,C3_region_held_out_size_matched,1900,194,Logistic Regression,0.6461393818310024
+42,4,2,C4_part_of_region_in_training_size_matched,1900,194,Logistic Regression,0.8248912915736278
+73,0,0,C1_region_held_out_full,2764,327,Random Forest,0.891410904155041
+73,0,0,C2_region_held_out_buffered,1553,327,Random Forest,0.8543850388356835
+73,0,0,C3_region_held_out_size_matched,1553,327,Random Forest,0.8793077445139883
+73,0,0,C4_part_of_region_in_training_size_matched,1553,327,Random Forest,0.9567528843978583
+73,0,0,C1_region_held_out_full,2764,327,LightGBM,0.8790438126838097
+73,0,0,C2_region_held_out_buffered,1553,327,LightGBM,0.8628308574014025
+73,0,0,C3_region_held_out_size_matched,1553,327,LightGBM,0.911884473267476
+73,0,0,C4_part_of_region_in_training_size_matched,1553,327,LightGBM,0.9731543624161073
+73,0,0,C1_region_held_out_full,2764,327,Logistic Regression,0.8005429454792248
+73,0,0,C2_region_held_out_buffered,1553,327,Logistic Regression,0.8694291531558707
+73,0,0,C3_region_held_out_size_matched,1553,327,Logistic Regression,0.7869693084986049
+73,0,0,C4_part_of_region_in_training_size_matched,1553,327,Logistic Regression,0.9156549279843149
+73,0,1,C1_region_held_out_full,2764,329,Random Forest,0.8920198549064529
+73,0,1,C2_region_held_out_buffered,1553,329,Random Forest,0.8540282550591828
+73,0,1,C3_region_held_out_size_matched,1553,329,Random Forest,0.8699121802214586
+73,0,1,C4_part_of_region_in_training_size_matched,1553,329,Random Forest,0.9479954180985108
+73,0,1,C1_region_held_out_full,2764,329,LightGBM,0.8486063382970599
+73,0,1,C2_region_held_out_buffered,1553,329,LightGBM,0.8524245895379916
+73,0,1,C3_region_held_out_size_matched,1553,329,LightGBM,0.8677357770141275
+73,0,1,C4_part_of_region_in_training_size_matched,1553,329,LightGBM,0.9557846506300114
+73,0,1,C1_region_held_out_full,2764,329,Logistic Regression,0.7787323405880107
+73,0,1,C2_region_held_out_buffered,1553,329,Logistic Regression,0.857655593738068
+73,0,1,C3_region_held_out_size_matched,1553,329,Logistic Regression,0.8206949217258496
+73,0,1,C4_part_of_region_in_training_size_matched,1553,329,Logistic Regression,0.9213058419243986
+73,0,2,C1_region_held_out_full,2764,325,Random Forest,0.8809468554188907
+73,0,2,C2_region_held_out_buffered,1553,325,Random Forest,0.8517830896573064
+73,0,2,C3_region_held_out_size_matched,1553,325,Random Forest,0.8818751450452542
+73,0,2,C4_part_of_region_in_training_size_matched,1553,325,Random Forest,0.9364508393285371
+73,0,2,C1_region_held_out_full,2764,325,LightGBM,0.8605244836388953
+73,0,2,C2_region_held_out_buffered,1553,325,LightGBM,0.8623810628916222
+73,0,2,C3_region_held_out_size_matched,1553,325,LightGBM,0.8851628374719579
+73,0,2,C4_part_of_region_in_training_size_matched,1553,325,LightGBM,0.9722286686779609
+73,0,2,C1_region_held_out_full,2764,325,Logistic Regression,0.8053686083391352
+73,0,2,C2_region_held_out_buffered,1553,325,Logistic Regression,0.850042546607875
+73,0,2,C3_region_held_out_size_matched,1553,325,Logistic Regression,0.7969366442330007
+73,0,2,C4_part_of_region_in_training_size_matched,1553,325,Logistic Regression,0.9281735901601299
+73,1,0,C1_region_held_out_full,3024,196,Random Forest,0.8772753963593658
+73,1,0,C2_region_held_out_buffered,1904,196,Random Forest,0.8468584850264239
+73,1,0,C3_region_held_out_size_matched,1904,196,Random Forest,0.879271873165003
+73,1,0,C4_part_of_region_in_training_size_matched,1904,196,Random Forest,0.9590135055783912
+73,1,0,C1_region_held_out_full,3024,196,LightGBM,0.8931297709923665
+73,1,0,C2_region_held_out_buffered,1904,196,LightGBM,0.8712859659424546
+73,1,0,C3_region_held_out_size_matched,1904,196,LightGBM,0.8635349383440986
+73,1,0,C4_part_of_region_in_training_size_matched,1904,196,LightGBM,0.9787433940105696
+73,1,0,C1_region_held_out_full,3024,196,Logistic Regression,0.6476805637110981
+73,1,0,C2_region_held_out_buffered,1904,196,Logistic Regression,0.607046388725778
+73,1,0,C3_region_held_out_size_matched,1904,196,Logistic Regression,0.6398120963006458
+73,1,0,C4_part_of_region_in_training_size_matched,1904,196,Logistic Regression,0.8458015267175572
+73,1,1,C1_region_held_out_full,3024,197,Random Forest,0.8543932144410613
+73,1,1,C2_region_held_out_buffered,1904,197,Random Forest,0.8292735972161809
+73,1,1,C3_region_held_out_size_matched,1904,197,Random Forest,0.8642888212266202
+73,1,1,C4_part_of_region_in_training_size_matched,1904,197,Random Forest,0.930622009569378
+73,1,1,C1_region_held_out_full,3024,197,LightGBM,0.859286646367986
+73,1,1,C2_region_held_out_buffered,1904,197,LightGBM,0.845911265767725
+73,1,1,C3_region_held_out_size_matched,1904,197,LightGBM,0.8804915180513266
+73,1,1,C4_part_of_region_in_training_size_matched,1904,197,LightGBM,0.968790778599391
+73,1,1,C1_region_held_out_full,3024,197,Logistic Regression,0.6458242714223575
+73,1,1,C2_region_held_out_buffered,1904,197,Logistic Regression,0.5637233579817311
+73,1,1,C3_region_held_out_size_matched,1904,197,Logistic Regression,0.6566985645933014
+73,1,1,C4_part_of_region_in_training_size_matched,1904,197,Logistic Regression,0.8089386689865159
+73,1,2,C1_region_held_out_full,3024,194,Random Forest,0.8253605769230768
+73,1,2,C2_region_held_out_buffered,1904,194,Random Forest,0.8091346153846154
+73,1,2,C3_region_held_out_size_matched,1904,194,Random Forest,0.8243990384615385
+73,1,2,C4_part_of_region_in_training_size_matched,1904,194,Random Forest,0.9354567307692307
+73,1,2,C1_region_held_out_full,3024,194,LightGBM,0.8388221153846154
+73,1,2,C2_region_held_out_buffered,1904,194,LightGBM,0.8329326923076923
+73,1,2,C3_region_held_out_size_matched,1904,194,LightGBM,0.8243990384615385
+73,1,2,C4_part_of_region_in_training_size_matched,1904,194,LightGBM,0.9649038461538462
+73,1,2,C1_region_held_out_full,3024,194,Logistic Regression,0.5685096153846154
+73,1,2,C2_region_held_out_buffered,1904,194,Logistic Regression,0.5189903846153846
+73,1,2,C3_region_held_out_size_matched,1904,194,Logistic Regression,0.5091346153846155
+73,1,2,C4_part_of_region_in_training_size_matched,1904,194,Logistic Regression,0.8159855769230769
+73,2,0,C1_region_held_out_full,2731,339,Random Forest,0.785924885924886
+73,2,0,C2_region_held_out_buffered,2158,339,Random Forest,0.7332748332748333
+73,2,0,C3_region_held_out_size_matched,2158,339,Random Forest,0.7864513864513866
+73,2,0,C4_part_of_region_in_training_size_matched,2158,339,Random Forest,0.9535626535626536
+73,2,0,C1_region_held_out_full,2731,339,LightGBM,0.7652158652158653
+73,2,0,C2_region_held_out_buffered,2158,339,LightGBM,0.6780975780975781
+73,2,0,C3_region_held_out_size_matched,2158,339,LightGBM,0.8198315198315198
+73,2,0,C4_part_of_region_in_training_size_matched,2158,339,LightGBM,0.9689013689013689
+73,2,0,C1_region_held_out_full,2731,339,Logistic Regression,0.7196560196560197
+73,2,0,C2_region_held_out_buffered,2158,339,Logistic Regression,0.7037557037557037
+73,2,0,C3_region_held_out_size_matched,2158,339,Logistic Regression,0.6976833976833977
+73,2,0,C4_part_of_region_in_training_size_matched,2158,339,Logistic Regression,0.915057915057915
+73,2,1,C1_region_held_out_full,2731,344,Random Forest,0.7885410921125207
+73,2,1,C2_region_held_out_buffered,2158,344,Random Forest,0.7274889685603971
+73,2,1,C3_region_held_out_size_matched,2158,344,Random Forest,0.7750620518477661
+73,2,1,C4_part_of_region_in_training_size_matched,2158,344,Random Forest,0.958942360728075
+73,2,1,C1_region_held_out_full,2731,344,LightGBM,0.7614795918367347
+73,2,1,C2_region_held_out_buffered,2158,344,LightGBM,0.6517512410369554
+73,2,1,C3_region_held_out_size_matched,2158,344,LightGBM,0.8258066740209598
+73,2,1,C4_part_of_region_in_training_size_matched,2158,344,LightGBM,0.9663541092112522
+73,2,1,C1_region_held_out_full,2731,344,Logistic Regression,0.7115278543849972
+73,2,1,C2_region_held_out_buffered,2158,344,Logistic Regression,0.7067360728075014
+73,2,1,C3_region_held_out_size_matched,2158,344,Logistic Regression,0.7074600110314395
+73,2,1,C4_part_of_region_in_training_size_matched,2158,344,Logistic Regression,0.9292608935466079
+73,2,2,C1_region_held_out_full,2731,342,Random Forest,0.7934065934065934
+73,2,2,C2_region_held_out_buffered,2158,342,Random Forest,0.737449851735566
+73,2,2,C3_region_held_out_size_matched,2158,342,Random Forest,0.8070469213326357
+73,2,2,C4_part_of_region_in_training_size_matched,2158,342,Random Forest,0.9576835862550149
+73,2,2,C1_region_held_out_full,2731,342,LightGBM,0.7664399092970522
+73,2,2,C2_region_held_out_buffered,2158,342,LightGBM,0.6889935461364033
+73,2,2,C3_region_held_out_size_matched,2158,342,LightGBM,0.776591662305948
+73,2,2,C4_part_of_region_in_training_size_matched,2158,342,LightGBM,0.966195709052852
+73,2,2,C1_region_held_out_full,2731,342,Logistic Regression,0.72276295133438
+73,2,2,C2_region_held_out_buffered,2158,342,Logistic Regression,0.706052677481249
+73,2,2,C3_region_held_out_size_matched,2158,342,Logistic Regression,0.7153322867608582
+73,2,2,C4_part_of_region_in_training_size_matched,2158,342,Logistic Regression,0.9161695447409732
+73,3,0,C1_region_held_out_full,3030,194,Random Forest,0.7891246684350132
+73,3,0,C2_region_held_out_buffered,2813,194,Random Forest,0.760499557913351
+73,3,0,C3_region_held_out_size_matched,2813,194,Random Forest,0.7898983200707338
+73,3,0,C4_part_of_region_in_training_size_matched,2813,194,Random Forest,0.8868258178603007
+73,3,0,C1_region_held_out_full,3030,194,LightGBM,0.7452475685234307
+73,3,0,C2_region_held_out_buffered,2813,194,LightGBM,0.6965075154730327
+73,3,0,C3_region_held_out_size_matched,2813,194,LightGBM,0.7630415561450045
+73,3,0,C4_part_of_region_in_training_size_matched,2813,194,LightGBM,0.9184350132625995
+73,3,0,C1_region_held_out_full,3030,194,Logistic Regression,0.7421529619805481
+73,3,0,C2_region_held_out_buffered,2813,194,Logistic Regression,0.7087754199823165
+73,3,0,C3_region_held_out_size_matched,2813,194,Logistic Regression,0.7375110521662246
+73,3,0,C4_part_of_region_in_training_size_matched,2813,194,Logistic Regression,0.8720159151193634
+73,3,1,C1_region_held_out_full,3030,193,Random Forest,0.8176142697881829
+73,3,1,C2_region_held_out_buffered,2813,193,Random Forest,0.7868450390189521
+73,3,1,C3_region_held_out_size_matched,2813,193,Random Forest,0.8094760312151617
+73,3,1,C4_part_of_region_in_training_size_matched,2813,193,Random Forest,0.9102564102564104
+73,3,1,C1_region_held_out_full,3030,193,LightGBM,0.7340022296544034
+73,3,1,C2_region_held_out_buffered,2813,193,LightGBM,0.6753623188405797
+73,3,1,C3_region_held_out_size_matched,2813,193,LightGBM,0.7397993311036788
+73,3,1,C4_part_of_region_in_training_size_matched,2813,193,LightGBM,0.9411371237458194
+73,3,1,C1_region_held_out_full,3030,193,Logistic Regression,0.8075808249721294
+73,3,1,C2_region_held_out_buffered,2813,193,Logistic Regression,0.7585284280936454
+73,3,1,C3_region_held_out_size_matched,2813,193,Logistic Regression,0.8141583054626533
+73,3,1,C4_part_of_region_in_training_size_matched,2813,193,Logistic Regression,0.9218506131549609
+73,3,2,C1_region_held_out_full,3030,193,Random Forest,0.7839600086937624
+73,3,2,C2_region_held_out_buffered,2813,193,Random Forest,0.755813953488372
+73,3,2,C3_region_held_out_size_matched,2813,193,Random Forest,0.794501195392306
+73,3,2,C4_part_of_region_in_training_size_matched,2813,193,Random Forest,0.8745924798956749
+73,3,2,C1_region_held_out_full,3030,193,LightGBM,0.7153879591393175
+73,3,2,C2_region_held_out_buffered,2813,193,LightGBM,0.6736579004564226
+73,3,2,C3_region_held_out_size_matched,2813,193,LightGBM,0.6934362095196697
+73,3,2,C4_part_of_region_in_training_size_matched,2813,193,LightGBM,0.9255596609432731
+73,3,2,C1_region_held_out_full,3030,193,Logistic Regression,0.7550532492936318
+73,3,2,C2_region_held_out_buffered,2813,193,Logistic Regression,0.6874592479895675
+73,3,2,C3_region_held_out_size_matched,2813,193,Logistic Regression,0.7262551619213216
+73,3,2,C4_part_of_region_in_training_size_matched,2813,193,Logistic Regression,0.8842642903716584
+73,4,0,C1_region_held_out_full,2115,651,Random Forest,0.8453196455340708
+73,4,0,C2_region_held_out_buffered,1759,651,Random Forest,0.8229757680411391
+73,4,0,C3_region_held_out_size_matched,1759,651,Random Forest,0.8454714510711778
+73,4,0,C4_part_of_region_in_training_size_matched,1759,651,Random Forest,0.9038122165505988
+73,4,0,C1_region_held_out_full,2115,651,LightGBM,0.8330044213362683
+73,4,0,C2_region_held_out_buffered,1759,651,LightGBM,0.8044460046680202
+73,4,0,C3_region_held_out_size_matched,1759,651,LightGBM,0.8400538909656728
+73,4,0,C4_part_of_region_in_training_size_matched,1759,651,LightGBM,0.9371050684073701
+73,4,0,C1_region_held_out_full,2115,651,Logistic Regression,0.7449002827378128
+73,4,0,C2_region_held_out_buffered,1759,651,Logistic Regression,0.7721968158788592
+73,4,0,C3_region_held_out_size_matched,1759,651,Logistic Regression,0.743164006907152
+73,4,0,C4_part_of_region_in_training_size_matched,1759,651,Logistic Regression,0.8920283117326704
+73,4,1,C1_region_held_out_full,2115,647,Random Forest,0.8537816580450376
+73,4,1,C2_region_held_out_buffered,1759,647,Random Forest,0.8395319320782293
+73,4,1,C3_region_held_out_size_matched,1759,647,Random Forest,0.8545508740216534
+73,4,1,C4_part_of_region_in_training_size_matched,1759,647,Random Forest,0.9089729043672237
+73,4,1,C1_region_held_out_full,2115,647,LightGBM,0.8403780696525067
+73,4,1,C2_region_held_out_buffered,1759,647,LightGBM,0.8142535720466915
+73,4,1,C3_region_held_out_size_matched,1759,647,LightGBM,0.8462721870733254
+73,4,1,C4_part_of_region_in_training_size_matched,1759,647,LightGBM,0.939010788254072
+73,4,1,C1_region_held_out_full,2115,647,Logistic Regression,0.7496394300109612
+73,4,1,C2_region_held_out_buffered,1759,647,Logistic Regression,0.7813792042460722
+73,4,1,C3_region_held_out_size_matched,1759,647,Logistic Regression,0.7113613199746158
+73,4,1,C4_part_of_region_in_training_size_matched,1759,647,Logistic Regression,0.8718678486952174
+73,4,2,C1_region_held_out_full,2115,649,Random Forest,0.8422995478738626
+73,4,2,C2_region_held_out_buffered,1759,649,Random Forest,0.8269806749461074
+73,4,2,C3_region_held_out_size_matched,1759,649,Random Forest,0.8418989297773707
+73,4,2,C4_part_of_region_in_training_size_matched,1759,649,Random Forest,0.9122646368683112
+73,4,2,C1_region_held_out_full,2115,649,LightGBM,0.8341631851046377
+73,4,2,C2_region_held_out_buffered,1759,649,LightGBM,0.8075506972662584
+73,4,2,C3_region_held_out_size_matched,1759,649,LightGBM,0.8296705393082661
+73,4,2,C4_part_of_region_in_training_size_matched,1759,649,LightGBM,0.9471279497891986
+73,4,2,C1_region_held_out_full,2115,649,Logistic Regression,0.7408191686220644
+73,4,2,C2_region_held_out_buffered,1759,649,Logistic Regression,0.7803182052309277
+73,4,2,C3_region_held_out_size_matched,1759,649,Logistic Regression,0.7238024380472728
+73,4,2,C4_part_of_region_in_training_size_matched,1759,649,Logistic Regression,0.8887044773841546

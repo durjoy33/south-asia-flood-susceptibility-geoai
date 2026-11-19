@@ -1,0 +1,6 @@
+region,n,pres,lon,lat,countries,Random Forest,LightGBM,XGBoost,gap
+0,651,42.7,77.6,30.2,India 76%; Pakistan 12%; Nepal 11%,0.860,0.858,0.863,0.005
+1,391,37.9,79.1,10.9,India 62%; Sri Lanka 38%,0.766,0.699,0.712,0.027
+2,686,56.1,69.6,34.1,Afghanistan 55%; Pakistan 43%; India 2%,0.791,0.754,0.724,0.023
+3,1300,46.5,90.3,25.5,India 60%; Bangladesh 24%; Bhutan 9%,0.833,0.810,0.806,0.012
+4,388,34.0,76.3,21.1,India 93%; Pakistan 7%,0.802,0.837,0.823,-0.002

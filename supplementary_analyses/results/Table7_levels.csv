@@ -1,0 +1,13 @@
+model,cond,mean,std
+LightGBM,C1_region_held_out_full,0.807,0.047
+LightGBM,C2_region_held_out_buffered,0.778,0.067
+LightGBM,C3_region_held_out_size_matched,0.818,0.048
+LightGBM,C4_part_of_region_in_training_size_matched,0.954,0.014
+Logistic Regression,C1_region_held_out_full,0.732,0.062
+Logistic Regression,C2_region_held_out_buffered,0.729,0.099
+Logistic Regression,C3_region_held_out_size_matched,0.726,0.064
+Logistic Regression,C4_part_of_region_in_training_size_matched,0.886,0.038
+Random Forest,C1_region_held_out_full,0.837,0.029
+Random Forest,C2_region_held_out_buffered,0.808,0.04
+Random Forest,C3_region_held_out_size_matched,0.835,0.028
+Random Forest,C4_part_of_region_in_training_size_matched,0.928,0.022

@@ -1,0 +1,25 @@
+predictor_name,source_filename,dataset_provider,collection_or_version,temporal_start,temporal_end,aggregation_or_derivation,native_resolution,resampling,unit,licence_or_attribution,verification_status
+Elevation,Elevation.tif,,,,,,,,,,to verify
+Slope,Slope.tif,,,,,,,,,,to verify
+Aspect,Aspect.tif,,,,,,,,,,to verify
+Curvature,Curvature.tif,,,,,,,,,,to verify
+TWI,TWI.tif,,,,,,,,,,to verify
+Soil_type,Soil.tif,,,,,,,,,,to verify
+Geology,Geology.tif,,,,,,,,,,to verify
+Soil_moist,Soil_moisture.tif,,,,,,,,,,to verify
+NDVI,NDVI.tif,,,,,,,,,,to verify
+LULC,LULC.tif,,,,,,,,,,to verify
+Dist_road,Dist_from_road.tif,,,,,,,,,,to verify
+Dist_river,Dist_from_river.tif,,,,,,,,,,to verify
+Dist_strm,Dist_from_stream.tif,,,,,,,,,,to verify
+Drain_dens,Drainage_density.tif,,,,,,,,,,to verify
+Flow_accu,Flow_accumulation.tif,,,,,,,,,,to verify
+Runoff,Runoff.tif,,,,,,,,,,to verify
+Total_rain,Total_rainfall.tif,,,,,,,,,,to verify
+Rain_anom,Rainfall_anomaly.tif,,,,,,,,,,to verify
+Rain_days,Rainfall_day.tif,,,,,,,,,,to verify
+Ext_rain_n,95p_day.tif,,,,,,,,,,to verify
+Pop_dens,Population_density.tif,,,,,,,,,,to verify
+Surf_rough_excluded,Surface_roughness.tif,,,,,,,,,,to verify
+NDWI_excluded,NDWI.tif,,,,,,,,,,to verify
+Ext_rain_a_excluded,95p_mm.tif,,,,,,,,,,to verify

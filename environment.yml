@@ -1,0 +1,22 @@
+name: south-asia-flood-geoai
+channels:
+  - conda-forge
+dependencies:
+  - python=3.13
+  - numpy
+  - pandas
+  - scipy
+  - scikit-learn
+  - geopandas
+  - rasterio
+  - pyproj
+  - matplotlib
+  - seaborn
+  - libpysal
+  - esda
+  - xgboost
+  - lightgbm
+  - tabulate
+  - shapely
+  - jupyterlab
+  - ipykernel

@@ -1,0 +1,29 @@
+column,description,unit,source_and_licence_note,used_in_21_predictor_model
+Label,Flood presence (1) / background (0),binary,"TO CONFIRM: product/version, dates, native resolution, licence",False
+inventory_record_id,Record identifier of the point inventory,id,"TO CONFIRM: product/version, dates, native resolution, licence",False
+Elevation,Elevation,m,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Slope,Terrain slope,degrees,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Aspect,Slope aspect,degrees,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Surf_rough,Surface roughness (candidate; excluded from the 21-predictor model),index,"TO CONFIRM: product/version, dates, native resolution, licence",False
+Curvature,Terrain curvature,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+TWI,Topographic wetness index,index,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Soil_type,Soil class code,categorical,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Geology,Geology class code,categorical,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Soil_moist,Soil moisture,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+NDVI,Normalized difference vegetation index,index,"TO CONFIRM: product/version, dates, native resolution, licence",True
+NDWI,Normalized difference water index (candidate; excluded),index,"TO CONFIRM: product/version, dates, native resolution, licence",False
+LULC,Land-use/land-cover class code,categorical,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Dist_road,Distance to nearest road,m,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Dist_river,Distance to nearest river,m,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Dist_strm,Distance to nearest stream,m,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Drain_dens,Drainage density,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Flow_accu,Flow accumulation,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Runoff,Runoff,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Total_rain,Total rainfall,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Rain_anom,Rainfall anomaly,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Rain_days,Rainfall days,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Ext_rain_n,Extreme-rainfall days (95p_day.tif),confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+Ext_rain_a,"Extreme-rainfall amount (95p_mm.tif; candidate, excluded from the 21-predictor model; 46 missing values)",confirm,"TO CONFIRM: product/version, dates, native resolution, licence",False
+Pop_dens,Population density,confirm,"TO CONFIRM: product/version, dates, native resolution, licence",True
+x,"Easting, South Asia Albers equal-area (lat_0=23, lon_0=80, lat_1=8, lat_2=38, WGS84)",m,"TO CONFIRM: product/version, dates, native resolution, licence",False
+y,"Northing, same CRS",m,"TO CONFIRM: product/version, dates, native resolution, licence",False

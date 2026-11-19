@@ -1,0 +1,7 @@
+model,mean_gap,lo,hi,regions_pos,folds_pos,n_folds,sd_fold
+LightGBM,0.01,-0.02,0.04,4,12,15,0.038
+Logistic Regression,0.013,-0.033,0.058,2,7,15,0.039
+MLP,0.016,-0.042,0.074,4,9,15,0.055
+Random Forest,0.013,-0.002,0.028,4,12,15,0.018
+SVM-RBF,-0.099,-0.235,0.037,1,4,15,0.219
+XGBoost,0.024,-0.006,0.055,5,13,15,0.042

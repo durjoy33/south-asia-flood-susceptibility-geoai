@@ -1,0 +1,17 @@
+numpy
+pandas
+scipy
+scikit-learn
+geopandas
+rasterio
+pyproj
+matplotlib
+seaborn
+libpysal
+esda
+xgboost
+lightgbm
+tabulate
+shapely
+jupyterlab
+ipykernel

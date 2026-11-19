@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the repository release and the associated manuscript."
+title: "South Asia Flood Susceptibility: Pixel-Grouped Spatial Validation"
+authors:
+  - family-names: Rahman
+    given-names: Naimur
+    affiliation: "Department of Geography and Environmental Studies, University of Rajshahi, Bangladesh"
+version: 1.0.0
+date-released: 2026-11-19
+type: software
+license: MIT
