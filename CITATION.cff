@@ -4,8 +4,12 @@ title: "South Asia Flood Susceptibility: Pixel-Grouped Spatial Validation"
 authors:
   - family-names: Rahman
     given-names: Naimur
-    affiliation: "Department of Geography and Environmental Studies, University of Rajshahi, Bangladesh"
-version: 1.0.0
-date-released: 2026-11-19
+    affiliation: "Department of Geography and Environmental Studies, University of Rajshahi, Rajshahi-6205, Bangladesh"
+  - family-names: Rahman
+    given-names: "Md. Rejaur"
+    affiliation: "Department of Geography and Environmental Studies, University of Rajshahi, Rajshahi-6205, Bangladesh"
+    email: rejaur2001@yahoo.com
+version: 1.1.0
+date-released: 2026-11-26
 type: software
 license: MIT
